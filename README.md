@@ -1,5 +1,4 @@
 # Developing a Neural Network Classification Model
-
 ## AIM
 
 To develop a neural network classification model for the given dataset.
@@ -14,7 +13,8 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![image](https://github.com/Archana2003-Jkumar/nn-classification/assets/93427594/723bf3fd-3e47-45ce-8dcc-3db84252ba74)
+
 
 ## DESIGN STEPS
 
